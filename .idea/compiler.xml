@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="haotian-leadnews-gateway" />
+        <module name="haotian-leadnews-admin" />
+        <module name="haotian-leadnews-utils" />
+        <module name="haotian-leadnews-common" />
+        <module name="haotian-leadnews-model" />
+        <module name="haotian-leadnews-apis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="haotian-leadnews" target="1.8" />
+      <module name="haotian-leadnews-admin" target="1.8" />
+      <module name="haotian-leadnews-apis" target="1.8" />
+      <module name="haotian-leadnews-common" target="1.8" />
+      <module name="haotian-leadnews-gateway" target="1.8" />
+      <module name="haotian-leadnews-model" target="1.8" />
+      <module name="haotian-leadnews-utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="haotian-leadnews" options="" />
+      <module name="haotian-leadnews-admin" options="-parameters" />
+      <module name="haotian-leadnews-apis" options="-parameters" />
+      <module name="haotian-leadnews-common" options="-parameters" />
+      <module name="haotian-leadnews-gateway" options="-parameters" />
+      <module name="haotian-leadnews-model" options="-parameters" />
+      <module name="haotian-leadnews-utils" options="-parameters" />
+    </option>
+  </component>
+</project>
