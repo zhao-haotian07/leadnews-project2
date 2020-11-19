@@ -3,9 +3,12 @@
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-admin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-apis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-article/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-user/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-wemedia/src/main/java" charset="UTF-8" />
   </component>
 </project>

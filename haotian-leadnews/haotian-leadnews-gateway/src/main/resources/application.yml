@@ -3,10 +3,11 @@ server:
 spring:
   application:
     name: leadnews-admin-gateway
+  #nacos 微服务
   cloud:
     nacos:
       discovery:
-        server-addr: 10.211.55.14:8848
+        server-addr: 10.211.55.16:8848
     gateway:
       globalcors:
         cors-configurations:

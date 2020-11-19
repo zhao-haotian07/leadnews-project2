@@ -15,6 +15,9 @@
         <module>haotian-leadnews-utils</module>
         <module>haotian-leadnews-admin</module>
         <module>haotian-leadnews-gateway</module>
+        <module>haotian-leadnews-user</module>
+        <module>haotian-leadnews-wemedia</module>
+        <module>haotian-leadnews-article</module>
     </modules>
 
     <!-- 继承Spring boot工程 -->
