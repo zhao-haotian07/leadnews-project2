@@ -25,7 +25,7 @@ public class WmUserController implements WmUserControllerApi {
      */
     @PostMapping("/save")
     @Override
-    public ResponseResult save(WmUser wmUser) {
+    public ResponseResult save(@RequestBody WmUser wmUser) {
         wmUserService.save(wmUser);
         return ResponseResult.okResult(AppHttpCodeEnum.SUCCESS);
     }

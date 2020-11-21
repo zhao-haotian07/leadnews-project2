@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="haotian-leadnews-gateway" />
+        <module name="haotian-leadnews-seata" />
         <module name="haotian-leadnews-admin" />
         <module name="haotian-leadnews-article" />
         <module name="haotian-leadnews-user" />
@@ -26,6 +27,7 @@
       <module name="haotian-leadnews-common" target="1.8" />
       <module name="haotian-leadnews-gateway" target="1.8" />
       <module name="haotian-leadnews-model" target="1.8" />
+      <module name="haotian-leadnews-seata" target="1.8" />
       <module name="haotian-leadnews-user" target="1.8" />
       <module name="haotian-leadnews-utils" target="1.8" />
       <module name="haotian-leadnews-wemedia" target="1.8" />
@@ -40,6 +42,7 @@
       <module name="haotian-leadnews-common" options="-parameters" />
       <module name="haotian-leadnews-gateway" options="-parameters" />
       <module name="haotian-leadnews-model" options="-parameters" />
+      <module name="haotian-leadnews-seata" options="-parameters" />
       <module name="haotian-leadnews-user" options="-parameters" />
       <module name="haotian-leadnews-utils" options="-parameters" />
       <module name="haotian-leadnews-wemedia" options="-parameters" />

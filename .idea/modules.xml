@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-common/haotian-leadnews-common.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-common/haotian-leadnews-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-gateway/haotian-leadnews-gateway.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-gateway/haotian-leadnews-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-model/haotian-leadnews-model.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-model/haotian-leadnews-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-seata/haotian-leadnews-seata.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-seata/haotian-leadnews-seata.iml" />
       <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-user/haotian-leadnews-user.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-user/haotian-leadnews-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-utils/haotian-leadnews-utils.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-utils/haotian-leadnews-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-wemedia/haotian-leadnews-wemedia.iml" filepath="$PROJECT_DIR$/haotian-leadnews/haotian-leadnews-wemedia/haotian-leadnews-wemedia.iml" />

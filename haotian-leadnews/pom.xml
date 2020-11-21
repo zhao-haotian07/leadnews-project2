@@ -18,6 +18,7 @@
         <module>haotian-leadnews-user</module>
         <module>haotian-leadnews-wemedia</module>
         <module>haotian-leadnews-article</module>
+        <module>haotian-leadnews-seata</module>
     </modules>
 
     <!-- 继承Spring boot工程 -->

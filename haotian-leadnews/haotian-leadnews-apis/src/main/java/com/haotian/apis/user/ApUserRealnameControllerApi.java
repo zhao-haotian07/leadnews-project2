@@ -1,7 +1,7 @@
 package com.haotian.apis.user;
 
 
-import com.haotian.model.common.dtos.PageResponseResult;
+import com.haotian.model.common.dtos.ResponseResult;
 import com.haotian.model.user.dtos.AuthDto;
 
 public interface ApUserRealnameControllerApi {
@@ -11,6 +11,20 @@ public interface ApUserRealnameControllerApi {
      * @param dto
      * @return
      */
-    public PageResponseResult loadListByStatus(AuthDto dto);
+    public ResponseResult loadListByStatus(AuthDto dto);
+
+    /**
+     * 审核通过
+     * @param dto
+     * @return
+     */
+    public ResponseResult authPass(AuthDto dto);
+
+    /**
+     * 审核失败
+     * @param dto
+     * @return
+     */
+    public ResponseResult authFail(AuthDto dto);
 
 }
